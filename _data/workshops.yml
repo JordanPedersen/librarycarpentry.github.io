@@ -51,6 +51,23 @@ workshops:
     start_date: 2019-05-23
     end_date: 2019-05-24
 -
+    who: Rachel Wang, Jordan Pedersen
+    help: May Chan
+    venue: Ryerson University Library and Archives
+    country: ca
+    latitude: 43.658298
+    longitude: -79.380783
+    workshop: OpenRefine 
+    blogs: 
+    lessons: OpenRefine
+    number: 
+    notes: 
+    site: https://github.com/JordanPedersen/2019-04-18-Ryerson
+    eventbrite_id: 
+    human_date: 18 April 2019
+    start_date: 2019-04-18
+    end_date: 2019-04-18
+-
     who: Konrad Förstner, Till Sauerwein
     help: Silvia Di Giorgio, Eva Seidlmayer
     venue: Technische Hochschule Köln
